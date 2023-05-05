@@ -1,0 +1,1476 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 0px none;
+    display: flex;
+    flex-direction: column;
+    height: 5091px;
+    overflow: hidden;
+    width: 2203px;
+  }
+  
+  .desktop-3 .flex-col-2 {
+    align-items: center;
+    margin-right: -15px;
+    margin-top: -250px;
+    min-height: 4232px;
+    width: 2212px;
+  }
+  
+  .desktop-3 .autres {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 74.0px;
+    min-height: 29px;
+    min-width: 74px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .overlap-group17 {
+    height: 221px;
+    margin-left: 1.0px;
+    margin-top: 217px;
+    position: relative;
+    width: 2211px;
+  }
+  
+  .desktop-3 .point0-removebg-preview-1 {
+    height: 51px;
+    left: 13px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 50px;
+  }
+  
+  .desktop-3 .overlap-group {
+    height: 221px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2203px;
+  }
+  
+  .desktop-3 .overlap-group-2 {
+    align-items: flex-end;
+    background-color: var(--smalt);
+    display: flex;
+    height: 221px;
+    left: 0;
+    min-width: 2203px;
+    padding: 53px 275.0px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .place {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 17px;
+    min-height: 29px;
+    white-space: nowrap;
+    width: 50px;
+  }
+  
+  .desktop-3 .overlap-group1-1 {
+    height: 90px;
+    margin-left: 120px;
+    position: relative;
+    width: 231px;
+  }
+  
+  .desktop-3 .hotels {
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 44px;
+    white-space: nowrap;
+    width: 74px;
+  }
+  
+  .desktop-3 .rectangle-78 {
+    background-color: var(--black-6);
+    height: 90px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 231px;
+  }
+  
+  .desktop-3 .attractions {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 17px;
+    margin-left: 35px;
+    min-height: 29px;
+    white-space: nowrap;
+    width: 125px;
+  }
+  
+  .desktop-3 .autres-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 17px;
+    margin-left: 181px;
+    min-height: 29px;
+    white-space: nowrap;
+    width: 74px;
+  }
+  
+  .desktop-3 .hotel-1 {
+    height: 52px;
+    left: 567px;
+    object-fit: cover;
+    position: absolute;
+    top: 97px;
+    width: 57px;
+  }
+  
+  .desktop-3 .departures-1-2 {
+    height: 52px;
+    left: 340px;
+    object-fit: cover;
+    position: absolute;
+    top: 98px;
+    width: 64px;
+  }
+  
+  .desktop-3 .attraction-1 {
+    height: 52px;
+    left: 849px;
+    object-fit: cover;
+    position: absolute;
+    top: 95px;
+    width: 64px;
+  }
+  
+  .desktop-3 .rectangle-71 {
+    background-color: var(--pizazz);
+    border-radius: 10px;
+    height: 29px;
+    left: 1224px;
+    position: absolute;
+    top: 92px;
+    width: 274px;
+  }
+  
+  .desktop-3 .grer-ma-rservation {
+    left: 1242px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 93px;
+    white-space: nowrap;
+    width: 236px;
+  }
+  
+  .desktop-3 .down-arrow-1 {
+    height: 27px;
+    left: 1094px;
+    object-fit: cover;
+    position: absolute;
+    top: 126px;
+    width: 33px;
+  }
+  
+  .desktop-3 .rectangle-3 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 10px;
+    height: 66px;
+    left: 1621px;
+    position: absolute;
+    top: 63px;
+    width: 166px;
+  }
+  
+  .desktop-3 .sinscrire {
+    left: 1648px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .desktop-3 .rectangle-4 {
+    height: 66px;
+    left: 1847px;
+    position: absolute;
+    top: 63px;
+    width: 193px;
+  }
+  
+  .desktop-3 .se-connecter {
+    left: 1868px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+    white-space: nowrap;
+    width: 178px;
+  }
+  
+  .desktop-3 .rectangle-5-1 {
+    height: 37px;
+    left: 2062px;
+    object-fit: cover;
+    position: absolute;
+    top: 53px;
+    width: 55px;
+  }
+  
+  .desktop-3 .price {
+    left: 2126px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 53px;
+    white-space: nowrap;
+    width: 51px;
+  }
+  
+  .desktop-3 .price-1 {
+    left: 2134px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 86px;
+    white-space: nowrap;
+    width: 16px;
+  }
+  
+  .desktop-3 .rectangle-62 {
+    height: 188px;
+    left: 10px;
+    object-fit: cover;
+    position: absolute;
+    top: 4px;
+    width: 265px;
+  }
+  
+  .desktop-3 .overlap-group12 {
+    align-items: center;
+    align-self: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645389a2d88f082f8741eb85/releases/6453cfe1491cb89a2159f6b6/img/rectangle-72.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 873px;
+    padding: 102px 83px;
+    width: 2190px;
+  }
+  
+  .desktop-3 .title {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 379.0px;
+    margin-top: 27px;
+    min-height: 59px;
+    min-width: 719px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .a-la-dcouverte-de-n {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 478.0px;
+    margin-top: 96px;
+    min-height: 80px;
+    text-align: center;
+    width: 902px;
+  }
+  
+  .desktop-3 .overlap-group19 {
+    align-items: flex-end;
+    align-self: flex-start;
+    background-color: var(--alto);
+    border-radius: 5px;
+    display: flex;
+    height: 72px;
+    justify-content: flex-end;
+    margin-left: 68px;
+    margin-top: 26px;
+    min-width: 491px;
+    padding: 7px 2px;
+  }
+  
+  .desktop-3 .rservez-ds-maintenant {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 47px;
+    min-width: 475px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .group-6 {
+    align-self: flex-end;
+    flex-direction: column;
+    gap: 7px;
+    margin-top: 24px;
+    min-height: 285px;
+    width: 1955px;
+  }
+  
+  .desktop-3 .overlap-group3 {
+    height: 227px;
+    margin-left: -4px;
+    position: relative;
+    width: 1939px;
+  }
+  
+  .desktop-3 .overlap-group-3 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645389a2d88f082f8741eb85/releases/6453cfe1491cb89a2159f6b6/img/group-3.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 227px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1939px;
+    padding: 37px 48px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .down-2 {
+    height: 54px;
+    object-fit: cover;
+    width: 67px;
+  }
+  
+  .desktop-3 .economique {
+    left: 1544px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+    width: 382px;
+  }
+  
+  .desktop-3 .ellipse-4 {
+    background-color: var(--eerie-black);
+    border-radius: 18px/15px;
+    height: 30px;
+    left: 1586px;
+    position: absolute;
+    top: 45px;
+    width: 36px;
+  }
+  
+  .desktop-3 .multi-destinations {
+    left: 741px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+    width: 287px;
+  }
+  
+  .desktop-3 .vols-directs-uniquement {
+    left: 1144px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+    width: 382px;
+  }
+  
+  .desktop-3 .dpart-le {
+    left: 955px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 143px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .retour-le {
+    left: 1263px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 144px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .o-allez-vous {
+    left: 600px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 143px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .do-partez-vous {
+    left: 253px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 143px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .address {
+    left: 1629px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .line-2 {
+    left: 859px;
+  }
+  
+  .desktop-3 .line-3 {
+    left: 1179px;
+  }
+  
+  .desktop-3 .line-4 {
+    left: 1505px;
+  }
+  
+  .desktop-3 .aller-retour {
+    left: 75px;
+    top: 40px;
+    width: 181px;
+  }
+  
+  .desktop-3 .aller-simple {
+    left: 375px;
+    top: 36px;
+    width: 187px;
+  }
+  
+  .desktop-3 .ellipse-1 {
+    background-color: var(--eerie-black);
+    border-radius: 18px/15px;
+    height: 30px;
+    left: 316px;
+    position: absolute;
+    top: 42px;
+    width: 36px;
+  }
+  
+  .desktop-3 .ellipse-2 {
+    background-color: var(--eerie-black);
+    border-radius: 18px/15px;
+    height: 30px;
+    left: 674px;
+    position: absolute;
+    top: 45px;
+    width: 36px;
+  }
+  
+  .desktop-3 .ellipse-3 {
+    background-color: var(--eerie-black);
+    border-radius: 18px/15px;
+    height: 30px;
+    left: 1094px;
+    position: absolute;
+    top: 46px;
+    width: 36px;
+  }
+  
+  .desktop-3 .down-2-1 {
+    height: 54px;
+    left: 1824px;
+    object-fit: cover;
+    position: absolute;
+    top: 138px;
+    width: 67px;
+  }
+  
+  .desktop-3 .ellipse-5 {
+    background-color: var(--alto);
+    border-radius: 42px/41.5px;
+    height: 83px;
+    left: 502px;
+    position: absolute;
+    top: 124px;
+    width: 84px;
+  }
+  
+  .desktop-3 .point0-removebg-preview-1-1 {
+    height: 51px;
+    left: 24px;
+    object-fit: cover;
+    position: absolute;
+    top: 34px;
+    width: 50px;
+  }
+  
+  .desktop-3 .arrow-1 {
+    height: 60px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 136px;
+    width: 67px;
+  }
+  
+  .desktop-3 .overlap-group-container {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    gap: 53px;
+    margin-right: 33px;
+    min-width: 955px;
+  }
+  
+  .desktop-3 .overlap-group5 {
+    align-items: center;
+    background-color: var(--pizazz);
+    border-radius: 10px;
+    display: flex;
+    height: 51px;
+    min-width: 451px;
+    padding: 0 65px;
+  }
+  
+  .desktop-3 .rechercher-volhotel {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 35px;
+    min-width: 293px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .overlap-group4 {
+    align-items: center;
+    background-color: var(--pizazz);
+    border-radius: 10px;
+    display: flex;
+    height: 51px;
+    min-width: 451px;
+    padding: 0 26px;
+  }
+  
+  .desktop-3 .rechercher-vol-uniquement {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 35px;
+    min-width: 376px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .allons-la-dcouverte-de-vos-envies {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 28.0px;
+    margin-top: 69px;
+    min-height: 47px;
+    min-width: 672px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rechercher-par-type-dhebergement {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 90px;
+    margin-top: 33px;
+    min-height: 35px;
+    min-width: 481px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .overlap-group11 {
+    height: 573px;
+    margin-right: 13.0px;
+    margin-top: 11px;
+    position: relative;
+    width: 1983px;
+  }
+  
+  .desktop-3 .overlap-group-4 {
+    align-items: flex-end;
+    background-color: var(--smalt-2);
+    display: flex;
+    height: 573px;
+    left: 0;
+    min-width: 1975px;
+    padding: 103px 75px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .x196275-htels {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 35px;
+    min-width: 200px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .x1275001-appts {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 325px;
+    min-height: 35px;
+    min-width: 216px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .x275658-villas {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 312px;
+    min-height: 35px;
+    min-width: 185px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .x500789-motels {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 329px;
+    min-height: 35px;
+    min-width: 205px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .appartements {
+    left: 598px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 392px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .ellipse-6 {
+    height: 334px;
+    left: 8px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 360px;
+  }
+  
+  .desktop-3 .ellipse-7 {
+    height: 334px;
+    left: 541px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 360px;
+  }
+  
+  .desktop-3 .hotels-1 {
+    left: 111px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 392px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .ellipse-8 {
+    height: 334px;
+    left: 1051px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 360px;
+  }
+  
+  .desktop-3 .place-1 {
+    left: 1170px;
+    position: absolute;
+    top: 392px;
+  }
+  
+  .desktop-3 .ellipse-9 {
+    height: 334px;
+    left: 1566px;
+    object-fit: cover;
+    position: absolute;
+    top: 21px;
+    width: 360px;
+  }
+  
+  .desktop-3 .motels {
+    left: 1680px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 392px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .recherchez-par-ville {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 98px;
+    margin-top: 109px;
+    min-height: 35px;
+    min-width: 338px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .overlap-group14 {
+    height: 645px;
+    margin-left: 1.0px;
+    margin-top: 73px;
+    position: relative;
+    width: 1985px;
+  }
+  
+  .desktop-3 .group-5 {
+    gap: 157px;
+    height: 645px;
+    left: 0;
+    min-width: 1985px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .flex-col-3 {
+    align-items: center;
+    margin-left: -5px;
+    margin-top: -5px;
+    min-height: 650px;
+    width: 278px;
+  }
+  
+  .desktop-3 .overlap-group2 {
+    background-color: var(--alto);
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645389a2d88f082f8741eb85/releases/6453cfe1491cb89a2159f6b6/img/rectangle-14@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border: 5px solid;
+    border-color: var(--pizazz);
+    height: 216px;
+    margin-right: 2.0px;
+    width: 276px;
+  }
+  
+  .desktop-3 .place-2 {
+    margin-right: 20.0px;
+    margin-top: 21px;
+    min-height: 35px;
+    min-width: 98px;
+  }
+  
+  .desktop-3 .overlap-group1-2 {
+    background-color: var(--alto);
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645389a2d88f082f8741eb85/releases/6453cfe1491cb89a2159f6b6/img/rectangle-15@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border: 5px solid;
+    border-color: var(--pizazz);
+    height: 216px;
+    margin-left: 2.0px;
+    margin-top: 106px;
+    width: 276px;
+  }
+  
+  .desktop-3 .place-3 {
+    margin-right: 22.0px;
+    margin-top: 21px;
+    min-height: 35px;
+    min-width: 86px;
+  }
+  
+  .desktop-3 .flex-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 152px;
+    min-width: 1541px;
+  }
+  
+  .desktop-3 .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 165px;
+    min-width: 1111px;
+  }
+  
+  .desktop-3 .flex-row-2 {
+    align-items: flex-start;
+    display: flex;
+    gap: 112px;
+    height: 645px;
+    min-width: 668px;
+  }
+  
+  .desktop-3 .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 645px;
+    width: 278px;
+  }
+  
+  .desktop-3 .rectangle {
+    height: 216px;
+    margin-right: 2.0px;
+    object-fit: cover;
+    width: 276px;
+  }
+  
+  .desktop-3 .name {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 3.0px;
+    margin-top: 16px;
+    min-height: 35px;
+    min-width: 83px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-1 {
+    height: 216px;
+    margin-left: 2.0px;
+    margin-top: 111px;
+    object-fit: cover;
+    width: 276px;
+  }
+  
+  .desktop-3 .place-4 {
+    margin-right: 4.0px;
+    margin-top: 16px;
+    min-height: 35px;
+    min-width: 118px;
+  }
+  
+  .desktop-3 .rectangle-17 {
+    height: 216px;
+    margin-left: 2.0px;
+    margin-top: 162px;
+    object-fit: cover;
+    width: 276px;
+  }
+  
+  .desktop-3 .place-5 {
+    margin-left: 2.0px;
+    margin-top: 16px;
+    min-height: 35px;
+    min-width: 132px;
+  }
+  
+  .desktop-3 .flex-col-1 {
+    align-items: center;
+    min-height: 594px;
+    width: 278px;
+  }
+  
+  .desktop-3 .place-6 {
+    margin-right: 3.0px;
+    margin-top: 9px;
+    min-height: 35px;
+    min-width: 195px;
+  }
+  
+  .desktop-3 .rectangle-21 {
+    height: 216px;
+    margin-left: 2.0px;
+    margin-top: 118px;
+    object-fit: cover;
+    width: 276px;
+  }
+  
+  .desktop-3 .place-7 {
+    margin-left: 25.0px;
+    margin-top: 16px;
+    min-height: 35px;
+    min-width: 105px;
+  }
+  
+  .desktop-3 .barcelone {
+    left: 874px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 232px;
+    white-space: nowrap;
+    width: 169px;
+  }
+  
+  .desktop-3 .place-8 {
+    left: 1768px;
+    position: absolute;
+    top: 610px;
+  }
+  
+  .desktop-3 .place-9 {
+    left: 1354px;
+    position: absolute;
+    top: 610px;
+  }
+  
+  .desktop-3 .belles-plages-a-decouvrir {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 123px;
+    margin-top: 104px;
+    min-height: 35px;
+    min-width: 428px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .overlap-group15 {
+    height: 605px;
+    margin-right: 13.0px;
+    margin-top: 49px;
+    position: relative;
+    width: 1983px;
+  }
+  
+  .desktop-3 .flex-row-3 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    display: flex;
+    height: 605px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1975px;
+    padding: 73px 72px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .flex-col-4 {
+    align-items: center;
+    gap: 29px;
+    min-height: 431px;
+    width: 282px;
+  }
+  
+  .desktop-3 .rectangle-5 {
+    height: 367px;
+    object-fit: cover;
+    width: 282px;
+  }
+  
+  .desktop-3 .place-10 {
+    margin-right: 57.0px;
+    min-height: 35px;
+    min-width: 89px;
+  }
+  
+  .desktop-3 .flex-col-5 {
+    align-items: flex-start;
+    gap: 34px;
+    margin-left: 99px;
+    min-height: 436px;
+    width: 282px;
+  }
+  
+  .desktop-3 .ile-du-carabe {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 18px;
+    min-height: 35px;
+    min-width: 185px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .flex-col-6 {
+    align-items: flex-start;
+    gap: 34px;
+    margin-left: 110px;
+    min-height: 436px;
+    width: 282px;
+  }
+  
+  .desktop-3 .palombaggia {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 26px;
+    min-height: 35px;
+    min-width: 178px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .flex-col-7 {
+    align-items: center;
+    gap: 34px;
+    margin-left: 103px;
+    min-height: 436px;
+    width: 282px;
+  }
+  
+  .desktop-3 .tropic-plage {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 23.0px;
+    min-height: 35px;
+    min-width: 167px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .ile-maurice {
+    left: 139px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 469px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-50 {
+    height: 367px;
+    left: 86px;
+    object-fit: cover;
+    position: absolute;
+    top: 73px;
+    width: 282px;
+  }
+  
+  .desktop-3 .trouvez-des-idees-ou {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 105px;
+    margin-top: 55px;
+    min-height: 35px;
+    min-width: 1179px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .flex-row-4 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 65.0px;
+    margin-top: 43px;
+    min-width: 1919px;
+  }
+  
+  .desktop-3 .rectangle-55 {
+    height: 277px;
+    object-fit: cover;
+    width: 488px;
+  }
+  
+  .desktop-3 .rectangle-57 {
+    height: 277px;
+    margin-left: 260px;
+    object-fit: cover;
+    width: 457px;
+  }
+  
+  .desktop-3 .rectangle-59 {
+    height: 277px;
+    margin-left: 245px;
+    object-fit: cover;
+    width: 469px;
+  }
+  
+  .desktop-3 .flex-row-5 {
+    align-items: flex-end;
+    display: flex;
+    height: 43px;
+    margin-right: 178.0px;
+    margin-top: 16px;
+    min-width: 1748px;
+  }
+  
+  .desktop-3 .stations-balnaires-d-espagne {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 35px;
+    min-width: 406px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .sud-du-maroc {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 1px;
+    margin-left: 442px;
+    min-height: 35px;
+    min-width: 186px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .surf-de-landres {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 501px;
+    min-height: 35px;
+    min-width: 213px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .flex-row-6 {
+    align-items: center;
+    align-self: center;
+    display: flex;
+    height: 316px;
+    margin-right: 81.0px;
+    margin-top: 2px;
+    min-width: 1884px;
+  }
+  
+  .desktop-3 .flex-col-8 {
+    align-items: flex-start;
+    gap: 15px;
+    margin-top: 5.0px;
+    min-height: 277px;
+    width: 678px;
+  }
+  
+  .desktop-3 .pour-passer-votre-t {
+    letter-spacing: 0;
+    line-height: 45.1px;
+    min-height: 180px;
+    width: 678px;
+  }
+  
+  .desktop-3 .overlap-group16 {
+    align-items: flex-start;
+    background-color: var(--pizazz);
+    border-radius: 10px;
+    display: flex;
+    height: 82px;
+    margin-left: 1px;
+    min-width: 162px;
+    padding: 19px 21px;
+  }
+  
+  .desktop-3 .voir-plus {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 35px;
+    min-width: 119px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .flex-col-9 {
+    align-items: flex-start;
+    gap: 9px;
+    margin-left: 92px;
+    min-height: 316px;
+    width: 463px;
+  }
+  
+  .desktop-3 .si-vous-tes-de-pass {
+    letter-spacing: 0;
+    line-height: 45.1px;
+    min-height: 225px;
+    width: 463px;
+  }
+  
+  .desktop-3 .overlap-group18 {
+    align-items: flex-start;
+    background-color: var(--pizazz);
+    border-radius: 10px;
+    display: flex;
+    height: 82px;
+    justify-content: flex-end;
+    margin-left: 14px;
+    min-width: 162px;
+    padding: 19px 21px;
+  }
+  
+  .desktop-3 .flex-col-10 {
+    align-items: flex-start;
+    gap: 36px;
+    margin-left: 218px;
+    margin-top: 3.0px;
+    min-height: 293px;
+    width: 433px;
+  }
+  
+  .desktop-3 .envie-de-dcouvrir-d {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 175px;
+    text-align: center;
+    width: 433px;
+  }
+  
+  .desktop-3 .overlap-group13 {
+    align-items: flex-start;
+    background-color: var(--pizazz);
+    border-radius: 10px;
+    display: flex;
+    height: 82px;
+    justify-content: flex-end;
+    margin-left: 4px;
+    min-width: 162px;
+    padding: 19px 21px;
+  }
+  
+  .desktop-3 .overlap-group10 {
+    height: 325px;
+    margin-right: -26px;
+    margin-top: 466px;
+    position: relative;
+    width: 2216px;
+  }
+  
+  .desktop-3 .overlap-group7 {
+    height: 325px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2190px;
+  }
+  
+  .desktop-3 .overlap-group-1 {
+    align-items: flex-end;
+    background-color: var(--smalt);
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    left: 0;
+    min-height: 325px;
+    padding: 69px 254px;
+    position: absolute;
+    top: 0;
+    width: 2190px;
+  }
+  
+  .desktop-3 .overlap-group1 {
+    align-items: flex-start;
+    align-self: center;
+    background-color: var(--pizazz);
+    display: flex;
+    height: 39px;
+    margin-left: 225.0px;
+    min-width: 311px;
+    padding: 1px 69px;
+  }
+  
+  .desktop-3 .partenaires {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 35px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-70 {
+    background-color: var(--alto);
+    height: 75px;
+    width: 884px;
+  }
+  
+  .desktop-3 .kayak-removebg-preview-1 {
+    height: 70px;
+    left: 1627px;
+    object-fit: cover;
+    position: absolute;
+    top: 138px;
+    width: 137px;
+  }
+  
+  .desktop-3 .rservez-avec-votre {
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 79px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .icon-facebook {
+    height: 43px;
+    left: 641px;
+    top: 187px;
+    width: 36px;
+  }
+  
+  .desktop-3 .icon-instagram {
+    height: 43px;
+    left: 697px;
+    top: 187px;
+    width: 43px;
+  }
+  
+  .desktop-3 .icon-twitter {
+    height: 35px;
+    left: 744px;
+    top: 192px;
+    width: 56px;
+  }
+  
+  .desktop-3 .rectangle-62-1 {
+    height: 172px;
+    left: 1985px;
+    object-fit: cover;
+    position: absolute;
+    top: 128px;
+    width: 173px;
+  }
+  
+  .desktop-3 .copyright-tukki-2023-tout-droit-rserv {
+    left: 775px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 251px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .affiner-vos-recherches-sur-nos-rseaux {
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 178px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .r-2 {
+    height: 67px;
+    left: 643px;
+    object-fit: cover;
+    position: absolute;
+    top: 60px;
+    width: 282px;
+  }
+  
+  .desktop-3 .r__3_-removebg-preview {
+    height: 71px;
+    left: 1313px;
+    object-fit: cover;
+    position: absolute;
+    top: 143px;
+    width: 82px;
+  }
+  
+  .desktop-3 .rentalcar-removebg-preview {
+    height: 50px;
+    left: 1398px;
+    object-fit: cover;
+    position: absolute;
+    top: 150px;
+    width: 201px;
+  }
+  
+  .desktop-3 .booking-removebg-preview {
+    height: 36px;
+    left: 1079px;
+    object-fit: cover;
+    position: absolute;
+    top: 158px;
+    width: 215px;
+  }
+  
+  .desktop-3 .agoda-new {
+    height: 69px;
+    left: 1791px;
+    object-fit: cover;
+    position: absolute;
+    top: 140px;
+    width: 127px;
+  }
+  
+  .desktop-3 .you-removebg-preview {
+    height: 34px;
+    left: 818px;
+    object-fit: cover;
+    position: absolute;
+    top: 192px;
+    width: 39px;
+  }
+  
+  .desktop-3 .overlap-group8 {
+    height: 325px;
+    left: 26px;
+    position: absolute;
+    top: 0;
+    width: 2190px;
+  }
+  
+  .desktop-3 .rectangle-76 {
+    height: 191px;
+    left: 1978px;
+    object-fit: cover;
+    position: absolute;
+    top: 69px;
+    width: 185px;
+  }
+  
+  .desktop-3 .aller {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .flex-col-11 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .desktop-3 .group {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .desktop-3 .icon {
+    object-fit: cover;
+    position: absolute;
+  }
+  
+  .desktop-3 .line {
+    height: 68px;
+    object-fit: cover;
+    position: absolute;
+    top: 133px;
+    width: 1px;
+  }
+  
+  .desktop-3 .place-11 {
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+  }
+  

@@ -1,0 +1,25 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css%22");
+@import url("https://px.animaapp.com/6453a7b963076cae904c716d.6453899fd88f082f8741eb83.645389a2d88f082f8741eb85.hcp.png%22");
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

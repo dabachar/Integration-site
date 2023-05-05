@@ -1,0 +1,117 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --black-32: #000000e6;
+  --black-6: #00000038;
+  --eerie-black: #1e1e1e80;
+  --pizazz: #f99301;
+  --smalt: #003b95;
+  --smalt-2: #003b95b2;
+  --white: #ffffff;
+ 
+  --font-size-s2: 30px;
+  --font-size-xl: 40px;
+  --font-size-xs2: 27px;
+  --font-size-xs22: 25px;
+  --font-size-xxl: 50px;
+  --font-size-xxl2: 35px;
+ 
+  --font-family-roboto-bold: "Roboto-Bold", Helvetica;
+  --font-family-roboto-light: "Roboto-Light", Helvetica;
+  --font-family-roboto-semibold: "Roboto-SemiBold", Helvetica;
+}
+.roboto-semi-bold-black-30px-22 {
+  color: var(--black);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-smalt-30px {
+  color: var(--smalt);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-xs22);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-smalt-35px {
+  color: var(--smalt);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-black-30px-2 {
+  color: var(--black-32);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-light-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto-light);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-bold-smalt-25px {
+  color: var(--smalt);
+  font-family: var(--font-family-roboto-bold);
+  font-size: var(--font-size-xs22);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-roboto-bold);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-semi-bold-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-smalt-40px {
+  color: var(--smalt);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-roboto-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
